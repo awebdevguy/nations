@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/nations/static/css/main.e1ce9b4a.chunk.css",
+    "main.js": "/nations/static/js/main.f35d9c6f.chunk.js",
+    "main.js.map": "/nations/static/js/main.f35d9c6f.chunk.js.map",
+    "runtime-main.js": "/nations/static/js/runtime-main.089246a1.js",
+    "runtime-main.js.map": "/nations/static/js/runtime-main.089246a1.js.map",
+    "static/css/2.679831fc.chunk.css": "/nations/static/css/2.679831fc.chunk.css",
+    "static/js/2.06c9bf69.chunk.js": "/nations/static/js/2.06c9bf69.chunk.js",
+    "static/js/2.06c9bf69.chunk.js.map": "/nations/static/js/2.06c9bf69.chunk.js.map",
+    "static/js/3.c2181d24.chunk.js": "/nations/static/js/3.c2181d24.chunk.js",
+    "static/js/3.c2181d24.chunk.js.map": "/nations/static/js/3.c2181d24.chunk.js.map",
+    "index.html": "/nations/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/nations/static/css/2.679831fc.chunk.css.map",
+    "static/css/main.e1ce9b4a.chunk.css.map": "/nations/static/css/main.e1ce9b4a.chunk.css.map",
+    "static/js/2.06c9bf69.chunk.js.LICENSE.txt": "/nations/static/js/2.06c9bf69.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/nations/static/media/morrocan.8fffdc8d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.089246a1.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.06c9bf69.chunk.js",
+    "static/css/main.e1ce9b4a.chunk.css",
+    "static/js/main.f35d9c6f.chunk.js"
+  ]
+}
