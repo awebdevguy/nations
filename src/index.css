@@ -160,7 +160,7 @@ body {
   top: 0;
   background-size: cover;
   padding: 0 1rem;
-  max-width: 1440px;
+  /* max-width: 1440px; */
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
 }
