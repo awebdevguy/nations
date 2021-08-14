@@ -2,7 +2,9 @@
 
 https://awebdevguy.github.io/nations/
 
-Web app that provides information about nations, which includes the flag, capital, regions, population and border countries.
+Another frontend mentor challenge. The screenshot.jpg was provided along with the functional specs.
+
+The web app provides information about nations, which includes the flag, capital, regions, population and border countries.
 
 It uses the REST Countries API.
 
