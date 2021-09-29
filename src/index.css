@@ -12,7 +12,8 @@
   --light-mode-elements: #EEEEEE;
 
   --header-outline: rgba(193, 194, 164, 0.4);
-  --header-image: url('./assets/floor-tile.png');
+  /* --header-image: url('./assets/floor-tile.png'); */
+  --header-image: url('./assets/Subtle-Prism.svg');
 
   --border-radius: 5px;
   --box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
@@ -20,7 +21,11 @@
 
 /* Toggle between dark and light mode. */
 .dark-mode {
-  --header-image: url('./assets/morrocan.png');
+  /* --header-image: url('./assets/morrocan.png'); */
+  /* --header-image: url('./assets/Slanted-Gradient.svg'); */
+  --header-image: url('./assets/Vanishing-Stripes.svg');
+
+
   --light-mode-input: hsl(227, 9%, 80%);
   --light-mode-elements: hsl(209, 23%, 22%);
   --light-mode-background: hsl(226, 15%, 77%);
@@ -46,7 +51,9 @@ body {
   z-index: 10;
   border: 3px solid var(--header-outline);
   margin-bottom: 1rem;
-  background-image: var(--header-image);
+  background: var(--header-image);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .title {
