@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/nations/static/css/main.a03e4ea8.chunk.css",
-    "main.js": "/nations/static/js/main.21b1dad5.chunk.js",
-    "main.js.map": "/nations/static/js/main.21b1dad5.chunk.js.map",
+    "main.css": "/nations/static/css/main.40735148.chunk.css",
+    "main.js": "/nations/static/js/main.8a44b5ec.chunk.js",
+    "main.js.map": "/nations/static/js/main.8a44b5ec.chunk.js.map",
     "runtime-main.js": "/nations/static/js/runtime-main.cf5f85c1.js",
     "runtime-main.js.map": "/nations/static/js/runtime-main.cf5f85c1.js.map",
     "static/js/2.3de2682b.chunk.js": "/nations/static/js/2.3de2682b.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.05232b5e.chunk.js": "/nations/static/js/3.05232b5e.chunk.js",
     "static/js/3.05232b5e.chunk.js.map": "/nations/static/js/3.05232b5e.chunk.js.map",
     "index.html": "/nations/index.html",
-    "static/css/main.a03e4ea8.chunk.css.map": "/nations/static/css/main.a03e4ea8.chunk.css.map",
+    "static/css/main.40735148.chunk.css.map": "/nations/static/css/main.40735148.chunk.css.map",
     "static/js/2.3de2682b.chunk.js.LICENSE.txt": "/nations/static/js/2.3de2682b.chunk.js.LICENSE.txt",
     "static/media/index.css": "/nations/static/media/Vanishing-Stripes.35f789cd.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.cf5f85c1.js",
     "static/js/2.3de2682b.chunk.js",
-    "static/css/main.a03e4ea8.chunk.css",
-    "static/js/main.21b1dad5.chunk.js"
+    "static/css/main.40735148.chunk.css",
+    "static/js/main.8a44b5ec.chunk.js"
   ]
 }
