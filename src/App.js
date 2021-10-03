@@ -11,9 +11,9 @@ function App() {
   
   const country = useContext(CountryContext);
   const proxyURL = "https://quicors.herokuapp.com/";
-  const countriesURL = "https://restcountries.com/v2/all?fields=name,nativeName,flag,population,region,capital,subregion,topLevelDomain,currencies,languages,borders";
+  // const countriesURL = "https://restcountries.com/v2/all?fields=name,nativeName,flag,population,region,capital,subregion,topLevelDomain,currencies,languages,borders";
   
-  // const countriesURL = "https://restcountries.com/v2/all";
+  const countriesURL = "https://restcountries.com/v2/all";
   const URL = proxyURL + countriesURL;
   const footerText = `Copyright \u00A9 2021 LCQ`
 

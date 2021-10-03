@@ -9,6 +9,7 @@
   --light-mode-text: hsl(200, 15%, 8%);
   --light-mode-input: hsl(0, 0%, 52%);
   --light-mode-background: hsl(0, 0%, 98%);
+  /* --light-mode-background: url('./assets/Liquid-Cheese.svg'); */
   --light-mode-elements: #EEEEEE;
 
   --header-outline: rgba(193, 194, 164, 0.4);
@@ -38,7 +39,9 @@ body, html {
   height: auto;
   margin: 0;
   box-sizing: border-box;
-  background-color: var(--light-mode-background);
+  /* background: var(--light-mode-background);
+  background-repeat: no-repeat;
+  background-size: cover; */
   font-family: 'Nunito Sans', sans-serif;
 }
 
@@ -48,7 +51,7 @@ body, html {
 
 .title-bar {
   height: 5.5rem;
-  background-color: var(--light-mode-elements);
+  /* background-color: var(--light-mode-elements); */
   display:grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-template-rows: .9fr 1.1fr;
